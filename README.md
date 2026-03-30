@@ -11,6 +11,10 @@ If Numpy, Matplotlib and SciPy not installed...
 ```bash
 pip install numpy matplotlib scipy
 ```
+or if using the Anaconda distribution,
+```bash
+conda install numpy matplotlib scipy
+```
 
 ## Usage
 ```python
