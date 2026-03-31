@@ -3,7 +3,7 @@
 The idea comes from the master's thesis of Leonard Pasion who showed that the response of a buried metal object can be described using a small set of parameters, related to its physical properties. In real surveys most detected objects are not actually ordnance and there can be over a hundred non ordnance items for every real UXO. If we can identify which targets are likely UXO before digging then we save time, effort and money.
 
 ## Installation
-```python
+```bash
 git clone https://github.com/hud15/final-project-454.git
 cd final-project-454
 pip install -e .
